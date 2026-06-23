@@ -1,0 +1,9 @@
+transformers
+datasets
+peft
+accelerate
+huggingface_hub
+evaluate
+scikit-learn
+gradio
+torch
