@@ -8,7 +8,8 @@ are trained, making this approach practical for resource-constrained settings.
 [Coming soon — Hugging Face Space]
 
 ## Model on Hugging Face Hub
-[Coming soon]
+https://huggingface.co/Sara-1990/distilbert-lora-sst2
+
 
 ## What this project covers
 - Fine-tuning a pre-trained transformer with LoRA (Low-Rank Adaptation)
