@@ -24,7 +24,6 @@ https://huggingface.co/Sara-1990/distilbert-lora-sst2
 | Dataset | SST-2 |
 | Base model | distilbert-base-uncased |
 | Trainable params | ~0.8% (LoRA r=8) |
-| Validation accuracy | TBD after training |
 
 ## Setup
 ```bash
