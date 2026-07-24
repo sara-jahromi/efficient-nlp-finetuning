@@ -4,8 +4,6 @@ Fine-tuning `distilbert-base-uncased` for sentiment classification using
 parameter-efficient LoRA via the PEFT library. Only ~1% of model parameters 
 are trained, making this approach practical for resource-constrained settings.
 
-## Live demo
-[Coming soon — Hugging Face Space]
 
 ## Model on Hugging Face Hub
 https://huggingface.co/Sara-1990/distilbert-lora-sst2
