@@ -25,7 +25,7 @@ https://huggingface.co/Sara-1990/distilbert-lora-sst2
 
 ## Setup
 ```bash
-git clone https://github.com/YOUR-USERNAME/efficient-nlp-finetuning.git
+git clone https://github.com/sara-jahromi/efficient-nlp-finetuning.git
 cd efficient-nlp-finetuning
 pip install -r requirements.txt
 python train.py
