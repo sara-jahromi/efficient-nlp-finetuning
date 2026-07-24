@@ -35,5 +35,4 @@ python train.py
 Python · Hugging Face Transformers · PEFT · Datasets · Gradio
 
 ## Author
-Sara — PhD in Electrical Engineering (NJIT), specializing in federated learning 
-and distributed ML systems.
+Sara — PhD in Electrical Engineering (NJIT), specializing in Reliable ML, distributed ML systems, and Semantic Information Retrieval.
