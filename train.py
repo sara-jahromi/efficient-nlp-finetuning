@@ -56,6 +56,6 @@ trainer = Trainer(
 trainer.train()
 
 # 5. Save + push to Hub
-model.push_to_hub("YOUR-HF-USERNAME/distilbert-lora-sst2")
-tokenizer.push_to_hub("YOUR-HF-USERNAME/distilbert-lora-sst2")
+model.push_to_hub("Sara-1990/distilbert-lora-sst2")
+tokenizer.push_to_hub("Sara-1990/distilbert-lora-sst2")
 print("Done! Model is live on Hugging Face Hub.")
