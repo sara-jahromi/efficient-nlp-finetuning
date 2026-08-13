@@ -14,7 +14,7 @@ https://huggingface.co/Sara-1990/distilbert-lora-sst2
 - Using Hugging Face `transformers`, `peft`, `datasets`, and `evaluate`
 - Tracking eval accuracy across epochs
 - Publishing a model to the Hugging Face Hub with a model card
-- Building a Gradio inference demo
+
 
 ## Results
 | Metric | Value |
